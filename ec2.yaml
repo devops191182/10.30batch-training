@@ -1,0 +1,8 @@
+---
+name: creating
+host: localhost
+task: 
+ -name: adding new ec2
+ -OS: linux
+ -apt: 
+

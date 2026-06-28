@@ -1,0 +1,6 @@
+name: ec2-creating
+host: adserver
+task: 
+ -name: nginx
+ -service: started 
+
